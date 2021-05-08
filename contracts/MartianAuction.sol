@@ -1,4 +1,4 @@
-pragma solidity ^0.6.0;
+pragma solidity ^0.6.1;
 
 contract MartianAuction {
     address payable public beneficiary;
